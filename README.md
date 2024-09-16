@@ -2,8 +2,8 @@
 ## I am a recent graduate with a profound intrest in Cyber Security
 ### **Objestive**
 - One key objective for me
-- leveraging my unique life experiences and perspective to educate and empower individuals,
-- and organizations  about cyber security and best practices
+- leveraging my unique life experiences and perspective to educate and empower individuals
+-  organizations  about cyber security and best practices
 ### **strengths**
 - Understanding of Python, SQOL, Linux
 - Strong written and verbal communication
