@@ -1,6 +1,5 @@
 # Hello I'm ***Tim Davis***
-This is my [Linkedin]
--(www.linkedin.com/in/tim-davis-209510a9)
+This is my [Linkedin](www.linkedin.com/in/tim-davis-209510a9)
 ## I am a recent graduate with a profound intrest in Cyber Security
 ### **Objestive**
 - One key objective for me
