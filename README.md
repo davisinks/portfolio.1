@@ -8,9 +8,14 @@
 - Understanding of Python, SQOL, Linux
 - Strong written and verbal communication
 - Time management
+- Team member, or leader. I stive to to be an example of  team member who follows protocol, and best practices, while still being able to think criticaly, or outside the box when needed
   ### Values
   -Integrety: Upholding ethical standards and honesty is paramount in cybersecurity
   - Curiosity: Astrong desire to learn and stay updated on the latest cyber security trends and threats, as technologies are crucial, this value drives me to continouly  expand, my knwoledge.
+ 
+    ####clarifying Questions, about me and what drives me into **Cybersecurity**
+    -1 What drives me into cybersecurity, is the need to be s positive change for good ny my community, or Organization
+    -2
 
 
 
