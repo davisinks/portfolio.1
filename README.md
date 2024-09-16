@@ -1,8 +1,9 @@
-# portfolio.1
-Tim Davis is shifting his  focus to ***Cyber Security***
-## -skills
--in this place I will list my newly aquiered skills, and achievmenst 
--1
+# Professionla Statement outline
+## step1 
+***list of skills and strengths***
+-1 strong attention to detail
+-1 self starter, time manegment, 
+-1 a unwavering desire to lean and excel
 
-- cyber security portfolio
- ## projects.2
+
+
